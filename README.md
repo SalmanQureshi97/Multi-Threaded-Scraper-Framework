@@ -6,4 +6,4 @@ A Web-Scraping Framework that allows quick multi-threading and multi-processing 
 - Undetected Chrome Driver (https://github.com/ultrafunkamsterdam/undetected-chromedriver)
 - Selenium
 - Multi-Processing 
-- Thread
+- Concurrent Futures
